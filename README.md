@@ -19,3 +19,13 @@ Particularly when it comes to state management, it turns out that we can already
 These simplified state management techniques are adequate and sufficient for a large range of applications, and we believe that you should consider them first before thinking of adopting a full-blown state management solution.
 
 How far can you go with these techniques? That's what you will find out in this course.
+
+## Course Overview
+
+We are going to start our course by taking a small Angular application that is written in imperative style, and we are going to talk about some of the problems of that approach. Then, we are going to refactor the application and explain step-by-step how to implement it in reactive style instead.
+
+We will explain in detail every RxJs operator that we come across in this course, the first time that we need each operator.
+
+We are going to start with a fully stateless solution first, but later we are going to improve the user experience by applying some simple RxJs-only state management techniques. We are going to use these patterns in order to handle some of the data of the application, as well as the user authentication profile.
+
+The key element needed to implement lightweight state management is RxJs behavior subjects so we will cover those in detail in the course. We will also provide step-by-step reactive style solutions for common UI functionality like loading indicators or error messages.
