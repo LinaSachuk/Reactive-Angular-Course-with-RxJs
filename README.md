@@ -29,3 +29,45 @@ We will explain in detail every RxJs operator that we come across in this course
 We are going to start with a fully stateless solution first, but later we are going to improve the user experience by applying some simple RxJs-only state management techniques. We are going to use these patterns in order to handle some of the data of the application, as well as the user authentication profile.
 
 The key element needed to implement lightweight state management is RxJs behavior subjects so we will cover those in detail in the course. We will also provide step-by-step reactive style solutions for common UI functionality like loading indicators or error messages.
+
+## Table of Contents
+
+This course covers the following topics:
+
+Review of an application written in imperative style
+
+Refactoring into stateless reactive style, understanding the benefits
+
+Smart vs Presentational Components
+
+Stateless Observable Services
+
+The shareReplay Operator
+
+Stateless UI updates (without state management)
+
+Introduction to RxJs Subjects and BehaviorSubject
+
+Decoupled component communication using shared observable services
+
+Using Observables to have components interact at different levels of the component tree
+
+Error Handling and error messages in reactive style
+
+Loading Indicators in reactive style
+
+Improving user experience with lightweight RxJs stores
+
+Optimistic UI updates
+
+Managing User Authentication state with plain RxJs
+
+Local vs Global Services
+
+Master Detail with cached master table in reactive style
+
+The Single Data Observable Pattern: Avoiding nested ng-component tags
+
+Refactoring a reactive application to OnPush change detection
+
+Conclusion and key takeaways
