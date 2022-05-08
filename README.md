@@ -71,3 +71,23 @@ The Single Data Observable Pattern: Avoiding nested ng-component tags
 Refactoring a reactive application to OnPush change detection
 
 Conclusion and key takeaways
+
+## What Will You Learn In this Course?
+
+At the end of the course, you will feel comfortable designing and developing Angular applications in reactive style, by leveraging plain RxJs-only techniques. You will know how to apply simplified reactive state management techniques to different common use cases, and you will understand the advantages and the limitations of this approach.
+
+You will be familiar with a series of commonly needed reactive design patterns, and you will also be familiar with a series of common pitfalls to avoid.
+
+What you’ll learn
+Code in Github repository with downloadable ZIP files per section
+Learn Lightweight State Management techniques (RxJs only)
+Understand the Core Principles of Reactive Programming in general
+Know how to build Applications in Angular in Reactive Style using RxJs
+Learn a Catalog of RxJs Application Design Patterns and Anti-Patterns
+Are there any course requirements or prerequisites?
+Angular (beginner level)
+Typescript
+Some basics of RxJs
+Who this course is for:
+Web developers looking to learn how to build Angular Applications in Reactive Style
+Angular Developers looking to learn lightweight state management techniques (using RxJs only)
